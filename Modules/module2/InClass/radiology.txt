@@ -1,0 +1,74 @@
+
+
+
+
+     DATE: [**3354-2-14**] 1:32 PM
+     CT LUNG/MEDIASTINAL BX; CT GUIDED NEEDLE PLACTMENT              Clip # [**Clip Number (Radiology) 4489**]
+     CT CHEST W/O CONTRAST
+     Reason: Please drain the Right pleural effusion; send fluid for gram
+     Admitting Diagnosis: ACUTE RENAL FAILURE,HYPOXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with DM, hemochromatosis/cirrhosis, pneumonia, with continued 
+      O2 requirement, with a R pleural effusion seen on CT scan.
+     REASON FOR THIS EXAMINATION:
+      Please drain the Right pleural effusion; send fluid for gram stain, all 
+      cultures, cytology. 
+     CONTRAINDICATIONS for IV CONTRAST:
+      Resolving ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT-GUIDED BIOPSY OF RIGHT PLEURAL LESION
+     
+     CLINICAL HISTORY:  Unable to tap right-sided effusion on ultrasound, please
+     perform a thoracentesis via CT.
+     
+     PRE-PROCEDURE CT FINDINGS:  Pre-contrast CT of the chest was performed prior
+     to thoracentesis.  There is a dependent left-sided pleural effusion.  There is
+     high-density crescentic material present in the peripheral right hemithorax.
+     It does not layer when the patient is repositioned.  A small right pleural
+     effusion is also present.  There is coronary artery disease.  A central venous
+     catheter is present with its tip in the right atrium.  There is no pericardial
+     effusion.  There is no lymphadenopathy.  The lung windows demonstrate right-
+     sided volume loss.  Motion artifact limits sensitivity for small nodules.  The
+     airways are clear.
+     
+     Bone windows demonstrate no lytic or blastic lesions.  There is a nonfused
+     fracture of the left fifth rib.  Similar-appearing fractures are present in
+     the left sixth and seventh ribs.
+     
+     Limited evaluation of the upper abdomen demonstrates cholelithiasis.
+     
+     CT-GUIDED BIOPSY:  The advantages and complications of the procedure were
+     explained to the patient.  Written informed consent was obtained.  Lidocaine
+     1% was used as local anesthesia and was injected into the subcutaneous soft
+     tissues overlying the right lower hemithorax.  The area over the right
+     hemithorax was prepped and draped in the usual sterile fashion.  A pre-
+     procedure timeout was called to confirm the patient's identity and the type of
+     procedure to be performed.  A 15-gauge needle was inserted into the right
+     hemithorax in an effort to perform a thoracentesis.  It became clear that
+     there was no fluid in the right pleural space but rather a solid lesion. Three
+     core biopsies of the lesion were obtained.  The patient tolerated the
+     procedure satisfactorily.  There were no immediate complications. Post-
+     procedure, the fluoroscopy images demonstrate no pneumothorax.
+     
+     The attending physician, [**Last Name (NamePattern4) 5**]. [**First Name (STitle) 3122**], was present throughout the entire
+     procedure.
+     
+                                                                 (Over)
+
+     DATE: [**3354-2-14**] 1:32 PM
+     CT LUNG/MEDIASTINAL BX; CT GUIDED NEEDLE PLACTMENT              Clip # [**Clip Number (Radiology) 4489**]
+     CT CHEST W/O CONTRAST
+     Reason: Please drain the Right pleural effusion; send fluid for gram
+     Admitting Diagnosis: ACUTE RENAL FAILURE,HYPOXIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Successful core biopsy of a lesion in the right peripheral hemithorax.
+     2.  Multiple left-sided rib fractures.
+     3.  Cholelithiasis.
+     4.  Small bilateral pleural effusions.
+     5.  Coronary artery disease.
+

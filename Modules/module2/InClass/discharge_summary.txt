@@ -1,0 +1,172 @@
+Admission Date:  [**2644-1-17**]              Discharge Date:   [**2644-1-23**]
+ 
+Date of Birth:  [**2553-5-26**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2775**] 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+n/a
+
+ 
+History of Present Illness:
+NF admit seen and appreciated.  Briefly this is a [**Age over 90 **] yo f w/ h/o 
+lung ca w/ metastasis to brain on XRT, s/p fall at NH on Sun 
+eve. No LOC.  [**1-24**] lethargy, n/v,L arm weakness, sent to [**Hospital1 **] 
+[**Location (un) 579**] where she was noted to havv 3x3cm R posterior parietal 
+bleed.  Tx to NSICU, started on dilantin (load) and decadron.  
+Deemed not a surgical candidate -> DNR/DNI.
+Noted to be guiac pos, +hct drop, coffee grounds on NGL.  GI 
+recommended transfusing to maintain hct.
+ 
+Past Medical History:
+Lung ca w/ mets to brain
+high cholesterol
+HTN
+CAD
+Lopresser 25mg tid
+ 
+Social History:
+lives at [**Location **], at baseline walks w/ walker.
+speaks italian, some english
+
+ 
+Physical Exam:
+t 98.6, bp 120/68, p 88, r 20 97% ra
+Elderly female, lying in bed, foam from mouth, responsive to 
+voice, can squeeze R hand.  
+R pupil 4mm, no reactive, L pupil reactive.
+No cervical/sm/sc LA
+Regular s1,s2. no m/r/g
+LCA anteriorly.
+ 
+Pertinent Results:
+cbc:
+8.9  8.6  229 
+    27.1  
+
+electrolytes:
+[**2644-1-17**] 04:51PM   SODIUM-137
+[**2644-1-17**] 04:51PM   ALBUMIN-3.2*
+[**2644-1-17**] 09:45AM   SODIUM-131* POTASSIUM-4.1 CHLORIDE-95* TOTAL 
+CO2-30* ANION GAP-10
+[**2644-1-17**] 03:57AM   CALCIUM-8.6 PHOSPHATE-3.9 MAGNESIUM-1.8
+[**2644-1-17**] 03:57AM   PHENYTOIN-10.2
+
+MRI:On diffusion-weighted images there is a small area of 
+restricted diffusion along the falx within the left 
+occipitotemporal lobe. It is also bright on FLAIR-weighted 
+images and may represent a subacute infarct. Clinical 
+correlation is recommended. On gradient echo images there is a 
+large area of intraparenchymal hemorrhage within the right 
+parietal lobe and left thalamus which following administration 
+of gadolinium reveals ring-enhancing lesions. These are 
+suspicious for hemorrhagic metastases given the patient's 
+history. Additional ring-enhancing lesions throughout the supra- 
+and infratentorial compartments are visualized. There is a 
+moderate amount of peritumoral edema involving the right 
+parietal lobe lesion in addition to a second right parietal 
+lesion along the falx high in the vertex. The other areas of 
+metastases reveal a minimal amount of peritumoral edema.
+.
+cxr: Cardiomegaly and mild CHF. Nasogastric tube as described 
+above. Rounded opacity overlying the left hilum, which probably 
+representing aspiration pneumonia; however, left hilar mass 
+cannot be totally excluded. Please confirm resolution by 
+repeated chest x-ray after treatment, and if the lesion 
+persists, please evaluate by CT scan.
+. 
+ct: Stable appearance of right parietal lobe and left thalamic 
+hemorrhages, which are concerning for hemorrhagic metastasis in 
+this patient with known metastatic lung carcinoma to the brain.
+
+ 
+Brief Hospital Course:
+[**Age over 90 **] yo f s/p INH in R parietal region, evidence of UGIB, 
+transferred to medicine, w/ pupillary assymmetry but no evidence 
+of neglect, responding to commands.
+.
+1) altered MS- likely bleed into metastatic lesion, although 
+unclear based on location of known lesions, vs component of 
+fall.  as per NS, not a surgical candidate.  seems unlikely that 
+pt will have dramatic cliical improvement given significant 
+edema, mass lesions, and no NS intervention.
+-palliative XRT? family mtg tonite to discuss utility. 
+-cont dilantin px, particularly since pt has ? of witnessed sz 
+event.
+-cont high dose decadron, q6h w/ fs.
+-will clarify 
+.
+2) GIB- drop in hct during admission and + NGL.  GI input 
+appreciated felt likely [**1-24**] stress ulceration.  Enteral 
+nutrition and PPI (usually oral) have been shown to reduce the 
+risk of ongoing bleeding. 
+-start TF's 10cc/h until nutrition recs
+-IV protonix (given recent h/o GIB)
+.
+3) CAD/CHF- previously some CHF on CXR.  oxygenating well.  
+euvolemic on exam despite significant anasarca of hands/feet- 
+minimal swelling of tibial surfaces so partially related to 
+restraints.   
+-cont lopresser
+-d/c lipitor, rx for hepatic dz.
+.
+4) fen- ivf, tf's
+.
+5) ppx- ppi, pneumoboots
+.
+6) code- dnr/dni
+
+On [**2644-1-19**] a family meeting was held with Oncology, Social Work, 
+Palliative Care Consult and primary medical team. At that time 
+the family decided to place comfort as the main goal of her 
+medical care. Her status was changed to "CMO".
+ 
+Medications on Admission:
+-lipitor 20
+-protonix
+-lopressor 25 tid
+
+ 
+Discharge Medications:
+Morphine Elixir
+Scopolamine Patch
+Ativan
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Wayside
+ 
+Discharge Diagnosis:
+Metastatic Lung Cancer
+Intracerbral Hemmorhage
+GI Bleed
+
+ 
+Discharge Condition:
+critical
+
+ 
+Discharge Instructions:
+Please keep patitent comfortable
+No blood draws, tubes or restraints
+ 
+Followup Instructions:
+n/a
+
+ 
+                             [**First Name11 (Name Pattern1) 335**] [**Last Name (NamePattern4) 336**] MD [**MD Number 2782**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4690**] MD [**MD Number 4691**] [**2644-1-22**] @ 1420
+Signed electronically by: DR. [**First Name8 (NamePattern2) 335**] [**Doctor Last Name **]
+ on: MON [**2644-3-18**] 11:34 AM
+(End of Report)
+
