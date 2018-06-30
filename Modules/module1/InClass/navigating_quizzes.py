@@ -20,7 +20,7 @@ def reset_mkdir():
 
 def ls_quiz(number_of_files, largest_file, most_recent_file):
     answers = {}
-    os.chdir("/home/jovyan/DATA/Misc")
+    os.chdir(os.path.join(os.path.join(os.path.expanduser("~"),"DATA", "Misc")))
     files = os.listdir()
     answers["number_of_files"] = len(files)
     files.sort(key=os.path.getsize)
