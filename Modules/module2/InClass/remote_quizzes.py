@@ -7,10 +7,10 @@ import pandas as pd
 def nci_ftp_quiz():
 
     try:
-        assert_true(os.path.exists("/home/jovyan/work/nci/var_citations.txt"))
+        assert_true(os.path.exists(os.path.join(os.path.expanduser("~"),"work/nci/var_citations.txt")))
         print("var_citations.txt exist in the correct location")
         try:
-            df1 = pd.read_table("/home/jovyan/work/nci/var_citations.txt")
+            df1 = pd.read_table(os.path.join(os.path.expanduser("~"),"work/nci/var_citations.txt"))
             df2 = pd.read_table("ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/var_citations.txt")
             assert_true(df2.equals(df1))
             print("var_citations.txt read correctly")
@@ -18,6 +18,6 @@ def nci_ftp_quiz():
             print("var_citations.txt does not exist in the correct location")
 
     except:
-        print("var_citations.txt not red correctly")
+        print("var_citations.txt not read correctly")
 
 
