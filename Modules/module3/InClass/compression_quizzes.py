@@ -7,6 +7,7 @@ import ipywidgets as widgets
 import skimage.io as io
 import skimage.color as color
 import numpy as np
+import os
 
 def win_lev(img, w, l, maxc=255):
     """
@@ -47,4 +48,4 @@ def examine_img(fname=""):
     img = dimg.pixel_array + dimg.RescaleIntercept
 
     view_img_line(img)
-examine_img("/home/jovyan/DATA/Images/PE/Ser_000006/IM-0124-0097.dcm")
+examine_img(os.path.join(os.path.expanduser("~"),"DATA/Images/PE/Ser_000006/IM-0124-0097.dcm"))
